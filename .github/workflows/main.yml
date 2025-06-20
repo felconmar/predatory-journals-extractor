@@ -4,7 +4,7 @@ env:
   PUBLISHER_URL: ${{ secrets.PUBLISHER_URL }}
 on:
   schedule:
-    - cron: "*/10 * * * *" # run every 10 minutes (temp)
+    - cron: "0 * * * *" # run every hour
 
 # on: [workflow_dispatch]
 
