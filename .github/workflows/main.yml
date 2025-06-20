@@ -3,8 +3,7 @@ env:
   JOURNAL_URL: ${{ secrets.JOURNAL_URL }}
   PUBLISHER_URL: ${{ secrets.PUBLISHER_URL }}
 on:
-  schedule:
-    - cron: "0 * * * *"  # Run the workflow daily
+  workflow_dispatch:
 
 # on: [workflow_dispatch]
 
