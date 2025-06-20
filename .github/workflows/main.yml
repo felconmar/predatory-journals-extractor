@@ -3,7 +3,8 @@ env:
   JOURNAL_URL: ${{ secrets.JOURNAL_URL }}
   PUBLISHER_URL: ${{ secrets.PUBLISHER_URL }}
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *" # run every 10 minutes (temp)
 
 # on: [workflow_dispatch]
 
