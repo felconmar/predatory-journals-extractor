@@ -2,7 +2,7 @@
 
 This project captures snapshots from the website [predatoryjournals.org](https://predatoryjournals.org), maintaining a historical record of entities identified as predatory journals and publishers. The data is updated regularly and can be explored through an interactive table on the project's GitHub Page.
 
-You can access the historical data captured by this project on the live GitHub Page available [**here**](https://www.google.com).
+You can access the historical data captured by this project on the live GitHub Page available [**here**](https://felconmar.github.io/predatory-journals-extractor/).
 
 
 -----
