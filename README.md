@@ -4,7 +4,6 @@ This project captures snapshots from the website [predatoryjournals.org](https:/
 
 You can access the historical data captured by this project on the live GitHub Page available [**here**](https://felconmar.github.io/predatory-journals-extractor/).
 
-
 -----
 
 ## How It Works
